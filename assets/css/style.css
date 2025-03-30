@@ -128,6 +128,9 @@ body {
     align-items: center;
     text-align: center;
     margin-top: 70px; /* Para compensar el header fixed */
+    background-image: url(../img/banner.png);
+    width: 100%;
+    background-size: cover;
 }
 
 .banner h1 {
